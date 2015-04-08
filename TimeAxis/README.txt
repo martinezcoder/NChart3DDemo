@@ -1,0 +1,5 @@
+///////////////////////////////////////
+                Time Axis            
+///////////////////////////////////////
+
+This sample demonstrates a bubble chart with a time axis.

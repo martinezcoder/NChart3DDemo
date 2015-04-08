@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace version = "1.0">
+    <FileRef location = "group:AxesTypes/AxesTypes.xcodeproj"/>
+    <FileRef location = "group:ColumnChart2D/ColumnChart2D.xcodeproj"/>
+    <FileRef location = "group:ColumnChart3D/ColumnChart3D.xcodeproj"/>
+    <FileRef location = "group:Crosshair/Crosshair.xcodeproj"/>
+    <FileRef location = "group:DataSmoothing/DataSmoothing.xcodeproj"/>
+    <FileRef location = "group:DifferentCharts/DifferentCharts.xcodeproj"/>
+    <FileRef location = "group:FloatingColor/FloatingColor.xcodeproj"/>
+    <FileRef location = "group:Highlight/Highlight.xcodeproj"/>
+    <FileRef location = "group:MultipleCharts/MultipleCharts.xcodeproj"/>
+    <FileRef location = "group:MultipleViews/MultipleViews.xcodeproj"/>
+    <FileRef location = "group:SecondaryAxis/SecondaryAxis.xcodeproj"/>
+    <FileRef location = "group:Streaming/Streaming.xcodeproj"/>
+    <FileRef location = "group:TimeAxis/TimeAxis.xcodeproj"/>
+    <FileRef location = "group:Tooltips/Tooltips.xcodeproj"/>
+    <FileRef location = "group:NChart3DDemo/NChart3DDemo.xcodeproj"/>
+</Workspace>
+

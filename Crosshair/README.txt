@@ -1,0 +1,5 @@
+///////////////////////////////////////
+                Crosshair            
+///////////////////////////////////////
+
+This sample demonstrates the basic crosshair usage.
